@@ -1,0 +1,2 @@
+# JogoPalpiteReact
+Created with CodeSandbox
